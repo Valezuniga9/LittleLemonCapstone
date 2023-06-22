@@ -1,4 +1,6 @@
-#!/Users/valeryzuniga/Dev/LLCapstone/bin/python
+#!/bin/sh
+'''exec' "/Users/valeryzuniga/Dev/LittleLemonCapstone copy/LLCapstone/bin/python3.9" "$0" "$@"
+' '''
 # -*- coding: utf-8 -*-
 import re
 import sys
